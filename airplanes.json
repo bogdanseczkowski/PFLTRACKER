@@ -2,15 +2,30 @@
     "data": [
       {
         "number": "0001",
-        "type": "Gulfstream G550(0001)"
+        "type": "Gulfstream G550(0001)",
+        "image": "https://www.airteamimages.com/gulfstream-g550_0001_poland-government_351200.html",
+        "annual_cost": 2853512.78,
+        "hour_cost": 21889.97,
+        "fuel_hour": 1355.18,
+        "cokg_per_liter": 2.5
       },
       {
         "number": "0002",
-        "type": "Gulfstream G550(0002)"
+        "type": "Gulfstream G550(0002)",
+        "image": "http://www.airteamimages.com/gulfstream-g550_0002_poland---polish-air-force_358060.html",
+        "annual_cost": 2853512.78,
+        "hour_cost": 21889.97,
+        "fuel_hour": 1355.18,
+        "cokg_per_liter": 2.5
       },
       {
         "number": "0110",
-        "type": "Boeing 737-800(0110)"
+        "type": "Boeing 737-800(0110)",
+        "image": "https://www.airteamimages.com/boeing-business-jet-bbj2_0110_poland---polish-air-force_343777.html",
+        "annual_cost": 2918559.97,
+        "hour_cost": 27637.87,
+        "fuel_hour": 3217.6,
+        "cokg_per_liter": 2.5
       }
     ]
   }
